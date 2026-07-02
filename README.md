@@ -18,14 +18,16 @@ times for departure and arrival that overlap in the single-track segment and don
 to once make their way to the destination. Also, they should only travel once. 
 
 ### Thoughts on the Formulation
-- The track system (in our current case just a line with two segments of different capacities (1 and 2)) should have arrival and departure times for each train at the boundary of the segments. 
+- The track system (in our current case just a line with two segments of different capacities (1 and 2)) should have 
+- arrival and departure times for each train at the boundary of the segments. 
 - For time, probably use integers for now...
 
 ## Step 2: Making the Formulation more general
 
 **Just some thoughts to incorporate:**
 - Use at least three track segments (of different capacities) to make the implementation easier to formulate for $n$.
-- Add a safety distance between trains as this is crucial to depict reality and contributes to the complexity of the problem.
+- Add a safety distance between trains as this is crucial to depict reality and contributes to the complexity of the 
+problem.
 - Have at least one train going in the opposite direction (with colliding schedules).
 
 
