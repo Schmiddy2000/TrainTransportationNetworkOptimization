@@ -31,4 +31,7 @@ problem.
 - Have at least one train going in the opposite direction (with colliding schedules).
 
 
-## Step 3: ...
+## Step 3: 
+
+**Just some thoughts to incorporate:**
+- Maybe add (or think about adding) junctions. 
