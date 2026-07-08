@@ -1,4 +1,4 @@
-# Structural Outline
+# Structural Outline (Needs updating xD)
 
 We want to optimize a small and simple train transportation system by minimizing delays. First, we just want to have a 
 minimal working prototype that can then be extended to a more complex description (e.g., larger system, more trains, 
